@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>858911990470-dhjsluhd4b9t8hg146mpoth0j8nva497.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.858911990470-dhjsluhd4b9t8hg146mpoth0j8nva497</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_HSXIFvBmIqDMbPNaK1J3FmGyNnbn8DA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>858911990470</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>shyke-shupit.Shwing</string>
+	<key>PROJECT_ID</key>
+	<string>shwing-8a339</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shwing-8a339.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:858911990470:ios:c3e1b6a42e885f1f9e6dc7</string>
+	<key>DATABASE_URL</key>
+	<string>https://shwing-8a339.firebaseio.com</string>
+</dict>
+</plist>
